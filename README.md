@@ -1,18 +1,11 @@
 
 # Face Recognition Attendance System 
+ Author-Aaditya Kumar Singh 
 
 ## Description
 Software for Industry , where they can track the attendence of their employee with the help of face recognition using OpenCV library.
 
-## Table of Contents
-- [Project Plan](#project-plan)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Project Plan
 - Task:
   - [x] Create a home page
   - [x] Show attendence log on home for particular day
@@ -45,9 +38,5 @@ Software for Industry , where they can track the attendence of their employee wi
 ## Usage
 - this is useful in tracking the attendence of your employees
 
-## Contributing
-- Contributers are welcomed, you can simply fork the repo and contribute , and make PR
-- Dont wait for getting issue assigned to you
-## License
-- Include information about the project's license.
+
 
